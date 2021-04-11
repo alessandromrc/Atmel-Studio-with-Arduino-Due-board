@@ -42,7 +42,6 @@ Drag the files (DueProgrammer.bat and bossac.exe) inside a folder that you want,
    Your output should be similar to this:
 
    ```
-   ​```
    Device       : ATSAM3X8
    Version      : v1.1 Dec 15 2010 19:25:04
    Address      : 0x80000
@@ -89,7 +88,6 @@ Drag the files (DueProgrammer.bat and bossac.exe) inside a folder that you want,
    Done in 0.509 seconds
    Set boot flash true
    
-   ​```
    ```
 
    Done! You flashed your program into your Arduino Due board!
